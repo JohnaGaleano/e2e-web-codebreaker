@@ -1,0 +1,1 @@
+Just run cypress with `./node_modules/.bin/cypress open `, the front-end of Code Breaker is on Heroku.
